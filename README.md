@@ -13,6 +13,8 @@ In brief, cleanData.m takes the .mat files for each subject and outputs a data f
 We've included the cleanData.mat data file already if you want to skip this step.
 With cleanData.mat, you can run analyze_accuracy.m, analyze_RT.m, or analyze_reachArea.m to pull figures and results for each dependent measure.
 
+![Task gif](https://github.com/nathanwispinski/wispinski-biorxiv-2020/blob/main/videoExamples_Box.gif)
+
 ## Prerequisites
 
 This code is written to be compatible with MATLAB 2019b and 2020a on Windows 10 OS.
