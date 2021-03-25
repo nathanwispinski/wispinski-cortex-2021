@@ -1,6 +1,6 @@
-# Code and data for Wispinski et al. (2020)
+# Code and data for Wispinski et al. (2021)
 
-Wispinski, N.J., Stone, S.A., Bertrand, J.K., Zuk, A.A.O., Lavoie, E.B., Gallivan, J.P., & Chapman, C.S. (2020). Reaching for known unknowns: Rapid reach decisions accurately reflect the future state of dynamic probabilistic information. *bioRxiv*. https://doi.org/10.1101/2020.07.31.231563.
+Wispinski, N.J., Stone, S.A., Bertrand, J.K., Zuk, A.A.O., Lavoie, E.B., Gallivan, J.P., & Chapman, C.S. (2021). Reaching for known unknowns: Rapid reach decisions accurately reflect the future state of dynamic probabilistic information. *Cortex*. https://doi.org/10.1016/j.cortex.2021.02.010.
 
 This project consists of two experiments which aimed to examine the extent to which reach movement trajectories convey internal predictions about the future state of dynamic probabilistic information.
 
